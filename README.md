@@ -1,6 +1,4 @@
-# RIDE & GROW
 ![Image](/assets/img/logo1.png)
-
 ## I. Context & Innovative Problem
 The educational climate in Cambodia is largely inhibited by the high rates of grade repetition, school dropout, and low student achievement with particular issues of student demotivation and lack of accessible transportation to school. It becomes a major concern since truants are more likely to abuse drugs and alcohol and become delinquent.
 
