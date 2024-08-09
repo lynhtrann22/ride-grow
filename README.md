@@ -16,6 +16,6 @@ To address attendance issues by looking at motivation and transportation as two 
 
 3. **Free breakfast & Agricultural program**: To incentivise students to come to school using Ride & Grow bike system and remain within the school system, a free breakfast plan is implemented, the resources for which are supplemented through implementations of an agricultural program where students can engage in sustainable farming to ‘grow their own breakfasts’.
 
-![Image](/assets/img/logo3.png)
+![Image](/assets/img/logo3.jpeg)
 
 [View Full Project](https://drive.google.com/file/d/1TtRKWyLqLyZLxQTf3iABUwxcQeVZaZpU/view?usp=sharing)
